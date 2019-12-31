@@ -6,11 +6,11 @@
 
    <a href="https://drive.google.com/open?id=14XU8E-MsJ93pr24cfutGfdoTiGINTR9h" target="_blank" style="text-decoration:none;color:red;">李泓慶時間序列 </a>
 
-   <a href="https://drive.google.com/open?id=1FQb11N2mc5fcv22S5EjN8sagThqREqw" target="_blank" style="text-decoration:none;color:red;">TMBA策略分享_傅立葉級數擬合</a>
+   <a href="https://drive.google.com/open?id=1FQb11N2mc5fcv22S5EjN8sagThqREqw_" target="_blank" style="text-decoration:none;color:red;">TMBA策略分享_傅立葉級數擬合</a>
 
-   <a href="https://drive.google.com/open?id=1hplySuZfK8f8QM4asBvdkzR0gZNtZQMp" target="_blank" style="text-decoration:none;color:red;">20190524_李泓慶_台指波動</a>
+   <a href="https://drive.google.com/open?id=1YKebGRCFLVSo_2Nklz-yzrPT3jl7dt6y" target="_blank" style="text-decoration:none;color:red;">20190524_李泓慶_台指波動</a>
    
-   <a href="https://drive.google.com/open?id=1YKebGRCFLVSo_2Nklz-yzrPT3jl7dt6y" target="_blank" style="text-decoration:none;color:red;">20190524_李泓慶_簡單的交易</a>
+   <a href="https://drive.google.com/open?id=1LPpKY6sV9kjxQ8gRn6Fcdxvefzs7aF6N" target="_blank" style="text-decoration:none;color:red;">20190524_李泓慶_簡單的交易</a>
 
    <a href="https://drive.google.com/open?id=1hplySuZfK8f8QM4asBvdkzR0gZNtZQMp" target="_blank" style="text-decoration:none;color:red;">20190412_李泓慶_統計套利_含修正</a>
   
