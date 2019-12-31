@@ -1,6 +1,6 @@
 # Portfolio
 
-  #### <a href="https://www.tmba.tw/" target="_blank" style="text-decoration:none;color:red;">TMBA</a>：TMBA定位為校園與實務界知識交流的平台，以下是我在TMBA程式交易部
+  #### <a href="https://www.tmba.tw/" target="_blank" style="text-decoration:none;color:red;">TMBA</a>：TMBA定位為校園與實務界知識交流的平台，以下是我在TMBA程式交易部的作品
    
    <a href="https://drive.google.com/open?id=1jHyfOMLcBRw6MWzvHZn-zvuh-AyJzh39" target="_blank" style="text-decoration:none;color:	#E63F00;">策略競賽第六組簡報</a>
 
