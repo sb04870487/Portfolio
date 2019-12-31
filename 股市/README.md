@@ -9,3 +9,7 @@
    <a href="https://drive.google.com/open?id=1dMe7SOdl2k8T-ev0UGwPK69DyYNOtI_P" target="_blank" style="text-decoration:none;color:red;">FSC證券市場揚升計畫對台股成交量的影響(上傳)</a>
    
    <a href="https://drive.google.com/open?id=1Bq_VJaO9hp-wZzyQb4nn8bHERCrKv6zs" target="_blank" style="text-decoration:none;color:red;">3036-文曄個股分析PBPE-final2(上傳)</a>
+
+   <a href="https://drive.google.com/open?id=1shXKNwGb0zW8sfq7DjPvgtpgf99ZIgvu" target="_blank" style="text-decoration:none;color:red;">0502台灣水資源(上傳)</a>
+  
+  <a href="https://drive.google.com/open?id=1IoOdrjUjXNWIX3P-SwzEN87EUMfjxKAn" target="_blank" style="text-decoration:none;color:red;">0328個股碩和</a>
